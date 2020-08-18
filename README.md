@@ -8,7 +8,8 @@ Week-2: Networking and Storage on AWS <br />
 Week-3: Databases on AWS <br />
 Week-4: Monitoring and Scaling <br />
 Week-5: Security, Cost Management, and Course Conclusion <br />
-Certification: https://coursera.org/share/f312f5b74c84c08b72ab418c281479c5
+Certification: 
+![picture alt](Course-1 AWS Fundamentals Going Cloud-Native/Course-1 AWS Fundamentals Going Cloud-Native.jpg)
 ## Course-2: AWS Fundamentals: Addressing Security Risk:-
 ### Modules:-
 Week-1: Reviews some basic concepts such as "least privilege" and the "Shared Responsibility Model." You will learn about AWS compliance programs and looked at securing AWS accounts using AWS IAM. <br />
